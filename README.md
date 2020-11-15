@@ -1,3 +1,7 @@
+looking to build incredible technology that changes people's life
+
+
+
 # Reinforcement-Learning-An-Introduction-2nd-Edition
 Notes, exercises' solutions and C++ code for Sutton &amp; Barto's book [Reinforcement Learning: An Introduction (2nd Edition)][1]
 > **Notes:** Extracted from each chapter of the book which I personally consider are important for beginners in RL field.  
